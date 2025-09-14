@@ -37,5 +37,7 @@ Epochs: 500
 Batch Size: 16  
 Learning Rate: 0.001  
 
+## [Click Here for Additional Questions and Answers](cart398_Ari_Pat_utensilClassifier_answers.pdf)
+
 ## Demonstration Video  
 https://youtu.be/sZ855oYF6cg
