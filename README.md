@@ -36,3 +36,6 @@ Class 6: No Utensil (188 Examples)
 Epochs: 500  
 Batch Size: 16  
 Learning Rate: 0.001  
+
+## Demonstration Video  
+https://youtu.be/sZ855oYF6cg
